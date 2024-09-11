@@ -18,7 +18,7 @@ const ServiceCard = ({ name, description }) => {
       <p className="mt-5 opacity-40 text-xl">
         {description
           ? description
-          : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "}
+          : "Passionate Software Engineer, skilled in Java, C/C#/C++, python and other programming languages, I thrive on tackling complex coding challenges and crafting innovative solutions. With a deep understanding of software development methodologies acquired from my Computer Science coursework and my internship at the Southern Utah University VR/AR Innovation Studio and Integrated Process Systems, Inc. as a Software Engineer.I have a drive for optimizing code for maximum performance and efficiency. Collaborative by nature, I am good at working in close collaboration with a good use and knowledge of collaboration software such as GitHub, Jira, and ClickUp. Although I am pursuing a bachelor's degree in Computer Science, I have a strong interest in electronics and have gained through multiple personal projects a noticeable amount of skills in Arduino."}
       </p>
     </div>
   );
